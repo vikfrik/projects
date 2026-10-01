@@ -9,6 +9,11 @@
 ### Образование
 - **ВШЭ**, факультет экономических наук, Экономика — 2024-2028
 
+### Опыт участия в мероприятиях и проектах
+- Финалист проектной карьерной школы от **Авито и ЦРК ВШЭ**, май 2026
+- Финалист хакатона Банка России **Macrohack**, апрель 2026
+- Участник кейс-чемпионата молодёжной программы **FINOPOLIS.365**, Москва, июнь 2025
+
 ### Навыки
 - **Языки и инструменты:** Python, SQL, Excel, Git
 - **Библиотеки:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly
@@ -18,7 +23,7 @@
 ### Контакты
 - Telegram: [@viktorfrik](https://t.me/viktorfrik)
 - Email: [viktorf005@yandex.ru](mailto:viktorf005@yandex.ru)
-- [LinkedIn]([https://...](https://www.linkedin.com/in/%D0%B2%D0%B8%D0%BA%D1%82%D0%BE%D1%80-%D1%84%D1%80%D0%B8%D0%BA-2376b6401/?isSelfProfile=true))
+- [LinkedIn](https://www.linkedin.com/in/%D0%B2%D0%B8%D0%BA%D1%82%D0%BE%D1%80-%D1%84%D1%80%D0%B8%D0%BA-2376b6401/?isSelfProfile=true)
 
 ---
 
